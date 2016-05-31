@@ -1,0 +1,2 @@
+defmodule Seshat do
+end
